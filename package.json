@@ -1,0 +1,24 @@
+{
+  "name": "xzone-discord-bot",
+  "version": "0.0.1",
+  "description": "Simple Disxord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Bot"
+  ],
+  "author": "Gar2007",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "discord.js": "^12.5.1",
+    "erlpack": "github:discord/erlpack",
+    "libsodium-wrappers": "^0.7.9",
+    "opusscript": "0.0.7",
+    "zlib-sync": "^0.1.7"
+  }
+}
